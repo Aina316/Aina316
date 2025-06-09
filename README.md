@@ -1,16 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hey there, I’m Emmanuel Aina
 
-###
+### 🎓 Junior Computer Science Major @ Alabama A&M University
 
-<p align="left">My name is Emmanuel Aina and I'm a Junior Computer Science Major at Alabama A&M University</p>
+I thrive at the intersection of **creativity** and **code**, constantly exploring new ways to transform ideas into impactful experiences. 🔧✨
 
-###
-
+---
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Started coding about 3 years ago<br>📚 I'm currently learning JavaScript and ReactJs<br>🎯 Goals: To deploy a full-scale app that has a million users<br>🎲 Fun fact: I love watching anime and playing video games</p>
+<p align="left">✨ Started coding about 3 years ago<br>📚 I'm currently learning about web dev and interning at Meta<br>🎯 Goals: To deploy a full-scale app that has a million users</p>
+
+---
+
+## 🚀 What I’m Up To
+When I’m not debugging algorithms or diving into data structures, you’ll find me:
+- 🎮 **Gaming**: conquering virtual worlds and perfecting strategies  
+- 📚 **Reading**: devouring epic fantasy novels that spark my imagination  
+- 📺 **Watching Anime**: soaking up inspiration from story-driven adventures  
+
+---
+
+## 💡 My Mission
+To build **innovative, user-centric apps** that solve real-world problems in creative ways—aiming to leave a lasting, positive impact on people’s lives, one feature at a time.
+
+---
+
+## 🤝 Let’s Connect
+Whether it’s an open-source project, a passion build, or your next big idea, I’m always down to collaborate and create something amazing together!  
+
+
+
 
 ###
 
