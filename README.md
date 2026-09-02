@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Emmanuel Aina
 
-### 🎓 Junior Computer Science Major @ Alabama A&M University
+### 🎓 Senior Computer Science Major @ Alabama A&M University
 
 I thrive at the intersection of **creativity** and **code**, constantly exploring new ways to transform ideas into impactful experiences. 🔧✨
 
