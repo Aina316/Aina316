@@ -9,7 +9,7 @@ I thrive at the intersection of **creativity** and **code**, constantly explorin
 
 ###
 
-<p align="left">✨ Started coding about 3 years ago<br>📚 I'm currently learning about web dev and interning at Meta<br>🎯 Goals: To deploy a full-scale app that has a million users</p>
+<p align="left">✨ Senior Computer Science student at Alabama A&M University, graduating May 2027<br>📚 Building full-stack and AI projects after two software engineering internships at Meta<br>🎯 Goals: Make my technical skills reach and help as much people as possible</p>
 
 ---
 
